@@ -1,0 +1,21 @@
+{
+  "name": "graphql-react-mongodb-realm-app",
+  "version": "1.0.0",
+  "description": "https://coding-to-music.github.io/GraphQL-React-MongoDB-Realm-App/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-to-music/GraphQL-React-MongoDB-Realm-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-to-music/GraphQL-React-MongoDB-Realm-App/issues"
+  },
+  "homepage": "https://github.com/coding-to-music/GraphQL-React-MongoDB-Realm-App#readme"
+}
