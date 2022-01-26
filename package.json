@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d frontend"
+    "deploy": "gh-pages -d frontend/web.graphql.todo/public/"
   },
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
 # GraphQL React MongoDB Realm App 
 
-graphqlreactapp-sgnlb.mongodbstitch.com
+https://graphqlreactapp-sgnlb.mongodbstitch.com/
 
 https://coding-to-music.github.io/GraphQL-React-MongoDB-Realm-App/
 
