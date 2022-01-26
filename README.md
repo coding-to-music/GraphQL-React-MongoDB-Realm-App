@@ -1,5 +1,12 @@
 # GraphQL React MongoDB Realm App 
 
+https://coding-to-music.github.io/GraphQL-React-MongoDB-Realm-App/
+
+https://github.com/coding-to-music/GraphQL-React-MongoDB-Realm-App
+
+https://docs.mongodb.com/realm/manage-apps/create/create-with-realm-ui/#std-label-create-a-realm-app
+
+
 ## Get the Front-End code for your Template via CLI
 If you enabled access to Github during app creation, your front-end code will be in your repository.
 
